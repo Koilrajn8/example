@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke; 
+}
+.headingcontainer{
+    text-align:center;
+    background-color: rgb(235, 155, 231);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.icon{
+    width: 50%;
+    height: 50%;
+
+}
+
+.blue{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    border: 5px solid rgb(6, 7, 7);
+    float: left;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(164, 245, 164);
+    height: 50%;
+    align-content: center;
+}
+/ C:\Users\cw\Desktop\koilraj\JAVASCRIPT\Hackathon\index.html
